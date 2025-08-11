@@ -1,8 +1,6 @@
 # Wire Hit Analysis Workflow (Step-By-Step)
 
-This repository contains tools to process CLAS12 HIPO files and generate wire hit histograms and preliminary status tables.
-
-The workflow is composed of three main steps:
+This repository contains tools to process CLAS12 HIPO files and generate wire hit histograms and status tables.
 
 ---
 
