@@ -9,7 +9,9 @@ The workflow is composed of three main steps:
 ## 0. Loading Modules
 
 module use /scigroup/cvmfs/hallb/clas12/sw/modulefiles
+
 module load clas12root
+
 module load root
 
 ## 1. Generate File Lists (`generate_file_lists.py`)
